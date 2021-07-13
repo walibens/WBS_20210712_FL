@@ -20,3 +20,7 @@ Tomorrow I'll try to prepare before the CRC Cards to see if the design could be 
 It was harder than yesterday although I've prepared the CRC cards. Maybe because I was trying to reproduce what I did well yesterday.
 I felt like wasting time on some basic stuffs.
 
+![alt text](https://github.com/walibens/WBS_20210712_FL/blob/main/CRC1.png)
+
+
+
