@@ -16,3 +16,7 @@ While I was creating the differents classes, I decided to update the Message-Dat
 
 Tomorrow I'll try to prepare before the CRC Cards to see if the design could be enhanced
 
+### Day 2
+It was harder than yesterday although I've prepared the CRC cards. Maybe because I was trying to reproduce what I did well yesterday.
+I felt like wasting time on some basic stuffs.
+
