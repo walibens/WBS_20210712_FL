@@ -5,6 +5,10 @@
    <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>FULL</FOLDER_LOGIC>
+   <IGNORE>
+    <item>/src/week1_wbs/zr_w1_d1_wbs.prog.abap</item>
+    <item>/src/week1_wbs/zr_w1_d1_wbs.prog.xml</item>
+   </IGNORE>
   </DATA>
  </asx:values>
 </asx:abap>
