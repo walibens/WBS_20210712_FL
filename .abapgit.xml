@@ -8,6 +8,8 @@
    <IGNORE>
     <item>/src/week1_wbs/zr_w1_d1_wbs.prog.abap</item>
     <item>/src/week1_wbs/zr_w1_d1_wbs.prog.xml</item>
+    <item>/src/week1_wbs/zr_w1_d2_wbs.prog.abap</item>
+    <item>/src/week1_wbs/zr_w1_d2_wbs.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
