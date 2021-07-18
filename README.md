@@ -23,4 +23,6 @@ I felt like wasting time on some basic stuffs.
 ![alt text](https://github.com/walibens/WBS_20210712_FL/blob/main/CRC1.png)
 
 
+### Day 3
+I've kept more or less the structure of day 1 and day 2 with a focus on the exception class.
 
