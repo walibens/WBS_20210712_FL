@@ -26,3 +26,16 @@ I felt like wasting time on some basic stuffs.
 ### Day 3
 I've kept more or less the structure of day 1 and day 2 with a focus on the exception class.
 
+
+### Day 4
+As we can have an input file with roman/arabic numerals, I've added a new interface as a port and a new file class as an adapter to follow the hexagonal architecture
+
+
+
+## Week 2 - Game of Life
+https://kata-log.rocks/game-of-life-kata
+
+### Day 1
+The exercice seems to be tougher than the first one, maybe because I was focusing on how to deal with a variable grid.
+Even the message and data flow diagram seems to me not clear.
+![alt text](https://github.com/walibens/WBS_20210712_FL/blob/main/MDF2.png)
