@@ -30,6 +30,8 @@ I've kept more or less the structure of day 1 and day 2 with a focus on the exce
 ### Day 4
 As we can have an input file with roman/arabic numerals, I've added a new interface as a port and a new file class as an adapter to follow the hexagonal architecture
 
+### Day 5
+Some optimisation in the input file management, but I couldn't do more because of the time
 
 
 ## Week 2 - Game of Life
