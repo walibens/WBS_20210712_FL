@@ -39,3 +39,7 @@ https://kata-log.rocks/game-of-life-kata
 The exercice seems to be tougher than the first one, maybe because I was focusing on how to deal with a variable grid.
 Even the message and data flow diagram seems to me not clear, I guess it means I didn't understand well the need.
 ![alt text](https://github.com/walibens/WBS_20210712_FL/blob/main/MDF2.png)
+
+### Day 2
+As I'm more confortable with ABAP Eclipse, I can see I write faster code.
+However I'm feeling I'm burning steps, like not spending enough time in the test. I'll try for the day 3 to focus only on the test.
